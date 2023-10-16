@@ -1,7 +1,5 @@
 0x11. C - printf
 
-This is a team project to create a custom printf function.
-
 0- Write a function that produces output according to a format.
 
 1- Handle the following conversion specifiers: d,i
